@@ -14,5 +14,6 @@ public class CardDemo {
         Card c1 = new Card("Hiojoi", 150);
         System.out.println(c1.getValue() + " of " + c1.getSuit());
         System.out.println("Hello");
+        System.out.println("ci.getValue()");
     }
 }
